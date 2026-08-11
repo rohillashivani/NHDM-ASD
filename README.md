@@ -20,3 +20,5 @@ The repository contains the source code associated with the experimental framewo
 ## Reproducibility
 
 The source code is provided to facilitate reproduction and further investigation of the experimental framework described in the associated manuscript.
+Final Reproducible Implementation
+The complete implementation corresponding to the revised manuscript is provided in NHDM_Final_Implementation.ipynb. The notebook contains the preprocessing, DMFO-based feature optimization, reliability-weighted ensemble classification, and Deep Dyna-Q based pre-emption workflow used in the revised study.
